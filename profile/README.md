@@ -4,4 +4,4 @@ This is a project mainly done by me (Best) because sometimes things can be impor
 
 All information displayed within repositories on opensourcev2 we're publicly available (as in able to get) on any websites mentioned.
 
-Feel free to open a github discussion!
+Feel free to open a [github discussion!](https://github.com/orgs/opensourcev2/discussions)
